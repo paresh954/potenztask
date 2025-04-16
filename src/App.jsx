@@ -5,7 +5,7 @@ import ProtectedRoute from "./routes/ProtectedRoute";
 import Profile from "./pages/Profile";
 import ProductDetail from "./pages/ProductDetail";
 import Products from "./pages/Products";
-import Navbar from "./navbar/navbar";
+import Navbar from "./navbar/Navbar";
 import PageNotFound from "./pages/PageNotFound";
 
 const App = () => {
